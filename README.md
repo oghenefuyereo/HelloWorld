@@ -1,23 +1,27 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+As a software engineer, I want to strengthen my programming skills by building simple applications before moving on to more advanced software projects. This project helped me verify that my development environment is set up correctly and that I can write, run, and manage code using Git and GitHub.
 
-{Provide a description of your software}
+This software is a simple JavaScript program that displays **"Hello World!"** in the terminal. It demonstrates the basic structure of a JavaScript program and confirms that the program executes successfully.
 
-{Describe your purpose for creating this software.}
+The purpose of creating this software was to become familiar with my development tools, practice writing and running JavaScript code, and prepare for developing larger web applications throughout the course.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+**Software Demo Video:**
+Replace this with your YouTube link after uploading your video.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+The software was developed using the following tools:
 
-{Describe the programming language that you used}
+* Visual Studio Code
+* Node.js
+* Git
+* GitHub
+
+The programming language used for this project was **JavaScript**.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Node.js Documentation](https://nodejs.org/docs)
+* [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
